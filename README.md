@@ -9,45 +9,11 @@ you can use API and backend system for yourself. Please don't hesitate to share 
 
                                                    Form INVALID!
                                                    
-                                                   
-                                                   
-                                                   
-                                                   
-                                                   
 ![formInValid](https://user-images.githubusercontent.com/99079485/159142981-0c014cbe-d7de-4b8d-b7b5-d63fa0800c76.png)
 
-
-
-
-
-
-
-
-
                                                    Form VALID! 
-                                                   
-                                                   
-                                                   
-                                                   
-                                                   
-                                                   
-                                                   
-                                                   
-                                                   
+                                              
 ![formValid](https://user-images.githubusercontent.com/99079485/159142975-b5451f5e-dbd8-418d-8697-40a16b4a1ce6.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
                                                    First Name Error
                                                    
@@ -57,3 +23,5 @@ you can use API and backend system for yourself. Please don't hesitate to share 
                                                    
 ![lastNameError](https://user-images.githubusercontent.com/99079485/159143145-bc772d57-5363-4991-accf-5e292d3de741.png)
 
+                                                   Mail Adress Error 
+![gmailError](https://user-images.githubusercontent.com/99079485/159143144-a208b8dc-5f52-4d83-9563-3481bd728d4f.png)                                                 
