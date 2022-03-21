@@ -22,7 +22,7 @@ you can use API and backend system for yourself. Please don't hesitate to share 
 
 # Tools and Packages 
 
-* This app was built using [ReactJS](https://reactjs.org/) and [TailwindCSS](https://tailwindcss.com/). 
+* This app was built using [ReactJS](https://reactjs.org/).
 * Design and CSS files taken from [Maximilian Schwarzmüller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/#instructor-2) (React Course Teacher).
 
 # Installation
