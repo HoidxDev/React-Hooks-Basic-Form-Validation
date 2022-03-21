@@ -1,4 +1,4 @@
-# React-Form-Validation-With-Custom-Hook
+# React-Hooks-Basic-Form-Validation
 
 Coded input validation with React Hooks. useState and useEffect hooks used in this project.. 
 Basically, it checks your inputs whether valid or not. If not, shows you an error about problem(s). 
